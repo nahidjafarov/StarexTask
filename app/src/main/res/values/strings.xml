@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StarexTask</string>
+    <string name="text_no_connectivity">No Connection</string>
+    <string name="text_connectivity">Back Online</string>
+    <string name="post_id">Enter post id</string>
+    <string name="btn_text">Search Post</string>
+</resources>
